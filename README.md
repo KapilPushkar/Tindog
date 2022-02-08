@@ -1,2 +1,1 @@
-# Tindog
-Tindog is a landing page  project.
+TinDog Starting Files
